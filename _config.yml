@@ -16,9 +16,9 @@
 title: BEACON RIAZ LabWiki
 description: Technical documentation of BEACON RIAZ AI Lab
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://Riaz-AI-Lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://riaz-ai-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: just-the-docs/just-the-docs
-repository: Riaz-AI-Lab/Riaz-AI-Lab.github.io
+repository: /riaz-ai-lab//riaz-ai-lab.github.io
 
 permalink: pretty
 

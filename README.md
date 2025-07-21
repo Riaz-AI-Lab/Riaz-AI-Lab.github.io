@@ -5,7 +5,7 @@
 <p align="center">
     <h1 align="center">BEACON RIAZ AI LAB</h1>
     <p align="center">Technical Documentation LabWiki</p>
-    <p align="center"><strong><a href="#">See it in action!</a></strong></p>
+    <p align="center"><strong><a href="https://riaz-ai-lab.github.io">See it in action!</a></strong></p>
     <br><br><br>
 </p>
 
