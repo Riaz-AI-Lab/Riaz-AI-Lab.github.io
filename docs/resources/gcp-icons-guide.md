@@ -20,9 +20,11 @@ Complete presentation showcasing Google Cloud icons for your research papers and
 > 
 > Complete presentation with all GCP service icons, organized by category, plus usage guidelines and solution architecture examples.
 
-### 📥 Download Presentation
+### 🌐 Access Presentation
 
-**[⬇️ Download PowerPoint (.pptx)](files/Google%20Cloud%20Official%20Icons%20and%20Solution%20Architectures.pptx)**
+**[🔗 Open Google Slides Presentation](https://docs.google.com/presentation/d/1IRhpopCNCxeGFEiqXb_pY6c_Ys9KKkdzKFhoCNuThio/edit?usp=sharing){:target="_blank"}**
+
+*Opens in a new tab for easy access while working on your diagrams*
 
 ### What's Included:
 - **All GCP Service Icons** - Compute, Storage, Networking, AI/ML, Analytics, Security, and more
@@ -32,6 +34,9 @@ Complete presentation showcasing Google Cloud icons for your research papers and
 
 {: .highlight }
 **Perfect for Research Papers** - Use these official icons to create professional diagrams for your publications, ensuring consistency and clarity in your cloud architecture representations.
+
+{: .note }
+**Tip:** You can make a copy of this presentation to your own Google Drive, or download individual slides/icons as needed for your projects.
 
 ---
 
